@@ -1,6 +1,6 @@
-# :tada: NegativeGames
+# :tada: DeltaSeries
  ## ❓ Who are we?  
-We make games!.. and Minecraft plugins!!!
+Part of Negative Games. This is the DeltaSeries of our Minecraft Plugins!
 
 ## ❓ How much are our resources?
 We try to keep all of our resources affordable and the same price. 
